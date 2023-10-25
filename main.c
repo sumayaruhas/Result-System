@@ -1,6 +1,7 @@
 //result system
 //code written by sumaya rahman
 #include<stdio.h>
+#include<string.h>
 #include<conio.h>
 #include<stdlib.h>
 void search();
